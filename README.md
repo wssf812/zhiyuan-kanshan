@@ -8,7 +8,7 @@
 
 输出：有多大的概率接受邀请   
 
-比赛排行榜
+比赛排行榜：
 
 ![image](https://github.com/user-attachments/assets/03c131a9-9cbb-4f6e-bcc5-fd3344a13271)
 
