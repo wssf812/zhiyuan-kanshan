@@ -9,6 +9,7 @@
 输出：有多大的概率接受邀请   
 
 比赛排行榜
+
 ![image](https://github.com/user-attachments/assets/03c131a9-9cbb-4f6e-bcc5-fd3344a13271)
 
 本代码很简单，就是一个传统方法，在比赛中达到0.6分。因为输入了一部分训练数据。要是整个输入，应该可以达到0.7.可以当作baseline玩玩。
